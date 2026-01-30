@@ -203,4 +203,4 @@ done
 case "$1" in --resume) resume ;; *)
 start
 bruteforcer
-esac
+esac fp_j05
